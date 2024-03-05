@@ -1,9 +1,7 @@
 ﻿HW3 Q2
-
 ======
 
 ```
-
 #include <iostream>
 
 #include<stdlib.h>
