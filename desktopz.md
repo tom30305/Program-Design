@@ -1,8 +1,8 @@
 ﻿HW3 Q2
 
-\======
+======
 
-\```
+```
 
 #include <iostream>
 
@@ -14,18 +14,18 @@ int main(void)
 
 {
 
-`	`int a, b;
+	int a, b;
 
-`	`printf("¿é¤Ja¡Bb¨â­Ó¾ã¼Æ:");
+	printf("¿é¤Ja¡Bb¨â­Ó¾ã¼Æ:");
 
-`	`scanf\_s("%d %d", &a, &b);
+	scanf\_s("%d %d", &a, &b);
 
-`	`printf("a+b=%d\n",a+b);
+	printf("a+b=%d\n",a+b);
 
-`	`system("pause");
+	system("pause");
 
-`	`return 0;
+	return 0;
 
 }
 
-\```
+```
